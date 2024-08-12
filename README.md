@@ -1,9 +1,10 @@
 
 <div align="center" >
     <h1> Hi, I'm Ahmed👋</h1>
+    <p align="center">
+<a href="https://github.com/Ahmedrazasabir/"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=31&duration=3000&pause=300&color=FFC83D&width=435&lines=Chatbot+Developer;Web+Developer;Ai+solutions+provider"></a><p/>
   </div>
-<p align="center">
-<a href="https://github.com/AYAN-IMRAN/"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=31&duration=3000&pause=300&color=FFC83D&width=435&lines=Chatbot+Developer;Web+Developer;Ai+solutions+provider"></a><p/>
+
  
 
 [![](https://visitcount.itsvg.in/api?id=Ahmedrazasabir&icon=0&color=0)](https://visitcount.itsvg.in)
